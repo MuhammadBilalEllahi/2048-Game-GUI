@@ -1,5 +1,5 @@
 package com.example.g2048;
-
+//GUI
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
